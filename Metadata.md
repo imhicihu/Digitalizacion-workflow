@@ -1,4 +1,5 @@
-* Document properties:
+* Document properties checklist:
+
      - Initial View:
          + Page View
          + Tow-up continuous (Cover Page)
