@@ -1,4 +1,4 @@
-* Document properties checklist:
+* PDF Document properties checklist:
 
      - Initial View:
          + Page View
