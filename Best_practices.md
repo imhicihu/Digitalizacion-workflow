@@ -4,3 +4,5 @@
 4. Create a master folder in your computer.
 5. Create 2 folders: `pair` & `even` 
 6. Copy those scans or photographs to the right folder that meet the former criteria.
+7. Rotate to the `left` or `right` accordingly.
+8. Unskew every page. Set proportions trying do not deform the image. 
