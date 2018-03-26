@@ -1,4 +1,4 @@
-# README #
+# Rationale #
 
 Good practices plus some workflow enhancements. No caveats.
 
