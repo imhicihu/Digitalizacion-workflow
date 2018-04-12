@@ -1,3 +1,6 @@
+## Best scenario possible
+
+
 1. Best environmental light as possible. Best hours in the day: in the morning. Avoid stormy days.
 2. Avoid reflection with the glass and the camera.
 3. Reflex camera with a worthy lens.
