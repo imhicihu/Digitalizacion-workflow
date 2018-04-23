@@ -1,0 +1,1 @@
+* Choose a licence and put it on README (chooselicence.org)
