@@ -9,3 +9,4 @@
 6. Copy those scans or photographs to the right folder that meet the former criteria.
 7. Rotate to the `left` or `right` accordingly.
 8. Unskew every page. Set proportions trying do not deform the image. 
+9. Unicode character set for the naming of files
