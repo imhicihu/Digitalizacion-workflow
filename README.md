@@ -3,29 +3,25 @@
 
 # Rationale #
 
-* Good practices plus some workflow enhancements. No caveats.
+* Workflow and digital strategies describing the process to migrate analog data to the digital realm
+* 
 ![googledrive.gif](https://media.giphy.com/media/3cXXyfMfltVOkmZu4a/giphy.gif)
 
 ### What is this repository for? ###
 
 * Quick summary
+     - Good practices plus some workflow enhancements.
 * Version
 	- 1.0
 
 ### How do I get set up? ###
 
 * Summary of set up
+     - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Best_practices.md?at=master&fileviewer=file-view-default)
 * Configuration
+     - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Colophon.md?at=master&fileviewer=file-view-default)
 * Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+     - There is no dependencies. No NPM, no Yarm.
 
 ### Who do I talk to? ###
 
@@ -34,7 +30,6 @@
 * Other community or team contact
      - Contact is enable on the [board](https://bitbucket.org/imhicihu/digitalizacion-worflow/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account).
      
-
 ### Legal ###
 
 * All trademarks are the property of their respective owners.     
