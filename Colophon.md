@@ -7,6 +7,7 @@
      - 
 * Software
  	 - [Scan Tailor](http://scantailor.org/): post-processing tool for scanned pages: (page splitting, deskewing, adding/removing borders...)
+     - [voussoir](https://github.com/publicus/voussoir): post-processing of scanned images, with a focus on [de-keystones](https://www.researchgate.net/figure/Digital-image-process-for-keystone-and-fan-shape-distortions-correction-a-Keystone_fig6_258041815) scans
      - [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
      - [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
      - [Light Meter - lux measurement tool](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8): environment lux measurement tool (ipad app)
