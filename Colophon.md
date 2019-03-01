@@ -16,6 +16,7 @@
      - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
      - [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch
      - ![rm_screenshot2.jpg](https://bitbucket.org/repo/5qA7gpA/images/1559824972-rm_screenshot2.jpg)
+     - [XnConverter](https://www.xnview.com/en/xnconvert/): image converter (batch)
      - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one)
      ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
 
