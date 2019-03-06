@@ -17,7 +17,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
-     - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Best_practices.md?at=master&fileviewer=file-view-default)
+     - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/25769343e794a60c6e436bc6ca3d216bd3b64f7f/Best_practices.md?at=master&fileviewer=file-view-default)
 * Configuration
      - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Colophon.md?at=master&fileviewer=file-view-default)
 * Dependencies
