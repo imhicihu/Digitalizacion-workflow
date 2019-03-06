@@ -14,6 +14,7 @@
      - [Light Meter - lux measurement tool](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8): environment lux measurement tool (ipad app)
      - ![230x0w.jpg](https://bitbucket.org/repo/5qA7gpA/images/561974045-230x0w.jpg)
      - [Carbon](https://carbon.now.sh/): (Automatization on code screen sharing)
+     - [Filmulator](https://github.com/CarVac/filmulator-gui): RAW format editor
      - [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch
      - ![rm_screenshot2.jpg](https://bitbucket.org/repo/5qA7gpA/images/1559824972-rm_screenshot2.jpg)
      - [XnConverter](https://www.xnview.com/en/xnconvert/): image converter (batch)
