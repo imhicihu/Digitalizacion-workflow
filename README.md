@@ -10,7 +10,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - Good practices plus some workflow enhancements.
+     - Good practices plus some workflow enhancements.Essentially, a _checklist_.
 * Version
 	- 1.0
 
@@ -21,7 +21,7 @@
 * Configuration
      - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Colophon.md?at=master&fileviewer=file-view-default)
 * Dependencies
-     - There is no dependencies. No NPM, no Yarm.
+     - There is no dependencies. No [NPM](https://www.npmjs.com), no [Yarm](https://yarnpkg.com/en/), no [Homebrew](https://brew.sh/)
 
 ### Who do I talk to? ###
 
