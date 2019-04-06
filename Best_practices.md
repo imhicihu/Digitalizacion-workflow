@@ -7,7 +7,7 @@
 * Preferred measure: 5472 x 3648 px
 * Only RAW file format allowed. 
   > ![raw_setting.jpg](https://bitbucket.org/repo/5qA7gpA/images/93963878-raw_setting.jpg)
-  > © Copyright Canong Imaging
+  > © Copyright Canon Imaging
 * Create a `master` folder in your computer
 * Create 2 folders: `pair` & `even`
   - ![pares_impares.jpeg](https://bitbucket.org/repo/5qA7gpA/images/475937124-pares_impares.jpeg)
