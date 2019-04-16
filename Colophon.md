@@ -4,7 +4,6 @@
      - Macbook 15"
      - Macbook 13"
      - Apple MagicMouse
-     - 
 * Software
  	 - [Scan Tailor](http://scantailor.org/): post-processing tool for scanned pages: (page splitting, deskewing, adding/removing borders...)
      - [YASW - Yet Another Scan Wizard](https://sourceforge.net/projects/yascanw/): post-processing of scanned images, particularly keystones issues
