@@ -10,7 +10,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - Good practices plus some workflow enhancements.Essentially, a _checklist_.
+     - Good practices plus some workflow enhancements. Essentially, a _checklist_.
 * Version
 	- 1.0
 
