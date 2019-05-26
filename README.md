@@ -30,6 +30,18 @@
 * Other community or team contact
      - Contact is enable on the [board](https://bitbucket.org/imhicihu/digitalizacion-worflow/addon/trello/trello-board) of this repo. (You need a [Trello](https://trello.com/) account).
      
+### Source ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/digitalizacion-worflow/src)
+
+### Issues ###
+
+* Check them on [here](https://bitbucket.org/imhicihu/digitalizacion-worflow/issues)
+
+### Changelog ###
+
+* Please check the [Commits](https://bitbucket.org/imhicihu/digitalizacion-worflow/commits/) section for the current status
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.     
