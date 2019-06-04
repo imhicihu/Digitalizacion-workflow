@@ -18,9 +18,9 @@
 ### How do I get set up? ###
 
 * Summary of set up
-     - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9e2806ba3944a007396def3b0f6c6c095fc39c5c/Best_practices.md?at=master&fileviewer=file-view-default)
+     - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Best_practices.md)
 * Configuration
-     - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/9a23e3459d25106b15140adaf56bc79227241ae5/Colophon.md?at=master&fileviewer=file-view-default)
+     - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Colophon.md?at=master)
 * Dependencies
      - There is no dependencies. No [NPM](https://www.npmjs.com), no [Yarm](https://yarnpkg.com/en/), no [Homebrew](https://brew.sh/)
 
