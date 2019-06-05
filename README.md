@@ -13,7 +13,7 @@
      - Good practices plus some workflow enhancements. Essentially, a _checklist_.
 * Version
 	- 1.0
-    ![voussoir.png](https://bitbucket.org/repo/5qA7gpA/images/670558305-voussoir.png)
+    ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
 
 ### How do I get set up? ###
 
