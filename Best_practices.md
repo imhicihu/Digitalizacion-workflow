@@ -3,7 +3,7 @@
 * Measure [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8). Best environmental light as possible. Best hours in the day: in the morning. Avoid stormy days.
 * Avoid artificial light
 * Avoid reflection (between the covering glass and the camera).
-* Preferred device: Reflex camera with a worthy lens and UV filter _add-on_.
+* Preferred device: Reflex camera with a worthy lens ~~and UV filter _add-on_~~.
 * Preferred measure: 5472 x 3648 px
 * Only RAW file format allowed. 
   > ![raw_setting.jpg](https://bitbucket.org/repo/5qA7gpA/images/93963878-raw_setting.jpg)
