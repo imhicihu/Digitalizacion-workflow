@@ -4,13 +4,18 @@
      - Macbook 15"
      - Macbook 13"
      - Apple MagicMouse
+     - Canon EOS 6d
+     - iPad Air
 * Software
      - Deployment
-          + [Plantuml](http://www.plantuml.com/plantuml/uml/):  Diagram / deployment diagram / critical path
+          + [Plantuml](http://www.plantuml.com/plantuml/uml/):  (online) Diagram / deployment diagram / critical path generator
      - Automation on software installation
           + [Munki](https://www.munki.org/munki/): installation/uninstallation automated of MacOSX software
      - Scanning
- 	      + [Scan Tailor](http://scantailor.org/): post-processing tool for scanned pages: (page splitting, deskewing, adding/removing borders...)
+ 	      + [Scan Tailor](http://scantailor.org/): scanning and post-processing tool for scanned pages: (page splitting, dewarping, deskewing, adding/removing borders...)
+          - ![Scan Tailor](https://bitbucket.org/repo/5qA7gpA/images/982419245-scantailor.png)
+          + [Book Scan Wizard](https://sourceforge.net/projects/bookscanwizard/): scanning and post-processing tool for scanned pages
+          + ![Book Scan Wizard](https://bitbucket.org/repo/5qA7gpA/images/1113201993-book_Scan_wizard.jpg)
           + [Light Meter - lux measurement tool](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8): environment lux measurement tool (ipad app)
           + ![230x0w.jpg](https://bitbucket.org/repo/5qA7gpA/images/561974045-230x0w.jpg)
      - RAW editor
@@ -23,7 +28,7 @@
           + [voussoir](https://github.com/publicus/voussoir): post-processing of scanned images, with a focus on [de-keystones](https://www.researchgate.net/figure/Digital-image-process-for-keystone-and-fan-shape-distortions-correction-a-Keystone_fig6_258041815) scans
           + ![670558305-voussoir.jpg](https://bitbucket.org/repo/5qA7gpA/images/670558305-voussoir.png)
           + [ImageOptim](https://github.com/ImageOptim/ImageOptim): image optimization
-          * [Darktable](https://www.darktable.org/): image treatment, enhancer in an _non destructive_ way.
+          * [Darktable](https://www.darktable.org/): image treatment, enhancer in a _non destructive_ way.
           * [digiKam](https://www.digikam.org/): digital photo management
      - Naming files
           + [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch
@@ -34,7 +39,6 @@
      - PDF assembly
           - [Alchemy](https://github.com/dawnlabs/alchemy): file converter and merger (mainly to merge lots of pdfs into one)
           ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](https://bitbucket.org/repo/5qA7gpA/images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
-
      
 ## Legal ##
 
