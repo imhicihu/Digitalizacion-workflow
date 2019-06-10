@@ -5,7 +5,7 @@
 
 * Workflow and digital strategies describing the process to migrate analog data to the digital realm
 * 
-![googledrive.gif](https://media.giphy.com/media/3cXXyfMfltVOkmZu4a/giphy.gif)
+![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
 
 ### What is this repository for? ###
 
