@@ -32,8 +32,9 @@
           * [Darktable](https://www.darktable.org/): image treatment, enhancer in a _non destructive_ way.
           * [digiKam](https://www.digikam.org/): digital photo management
      - Naming files
-          + [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch
-          + ![rm_screenshot2.jpg](https://bitbucket.org/repo/5qA7gpA/images/1559824972-rm_screenshot2.jpg)    
+          + [Rename Master](http://www.joejoesoft.com/vcms/108/): Rename files in a batch (Windows)
+          + ![rm_screenshot2.jpg](https://bitbucket.org/repo/5qA7gpA/images/1559824972-rm_screenshot2.jpg)
+          + [Name Changer](https://mrrsoftware.com/namechanger/): Rename files in a batch (MacOSX)
      - Metadata (Dublin Core & XMP specifications)
           - [calibre](https://calibre-ebook.com): indexing and metadata verifier
           - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
