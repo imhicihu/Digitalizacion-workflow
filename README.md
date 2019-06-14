@@ -4,8 +4,10 @@
 # Rationale #
 
 * Workflow and digital strategies describing the process to migrate analog data to the digital realm
-* 
-![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
+
+* ![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
+
+* This repo is a living document that will grow and adapt over time
 
 ### What is this repository for? ###
 
