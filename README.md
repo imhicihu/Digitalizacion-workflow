@@ -15,7 +15,7 @@
      - Good practices plus some workflow enhancements. Essentially, a _checklist_.
 * Version
 	- 1.0
-    ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
+    - ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
 
 ### How do I get set up? ###
 
@@ -24,7 +24,7 @@
 * Configuration
      - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Colophon.md?at=master)
 * Dependencies
-     - There is no dependencies. No [NPM](https://www.npmjs.com), no [Yarm](https://yarnpkg.com/en/), no [Homebrew](https://brew.sh/)
+     - There is no dependencies.
 
 ### Who do I talk to? ###
 
