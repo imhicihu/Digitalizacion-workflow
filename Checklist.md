@@ -11,18 +11,18 @@
 * choose your kind of camera: compact, semi-pro, pro. Consider 12 megapixels the minimum to get at least 300PPI captures
 * avoid any technical change/displacement (even environment condition) during the process of capture. No photo editor will fix that, even with RAW therapy (and lot of man-hours)
 * avoid (along the process) use of flash built-in
-* avoid use batteries for the camera. Consider got a pack of bateries along the process. Hint: plug-in to the AC adapter
-* even on compact, semi-pro or pro photographics cameras, choose auto-focus feature
+* avoid use batteries for the camera. If there is no option, consider an extra pack of batteries along the process. _Hint_: plug-in to the AC adapter
+* even on compact, semi-pro or pro photographics cameras, choose `auto-focus` feature
 * on semi-pro or pro cameras, choose the lowest ISO as possible to ensure the least noise in the image
 * attach a memory card (minimum: 8Gb, but _the more, the better_). Choose those models with a high ratio of speed recording (_the less, the better_). Check the free space remaining
-* avoid any offer of interpolation
+* avoid any offer/option/feature of interpolation
 * Camera options: (if apply)
 	* Shutter speed (`1/60th` of a second or higher)
 	* White balance: `automatic` in case the light's room is stable along the capture process. `Manual` in stormy or cloudy days or unstable light conditions. Hint: attach a [color management chart](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/29/workflow-color-management-chart)
 	* Aperture: `5.6` to get clear sharpness
 	* [ISO](https://en.wikipedia.org/wiki/Film_speed) (choose the lowest option as possible)
 	* Flash (`off` along the process)
-	* Avoid any custom image processing (ie.: `sharpening`, `color enhancements`, etc)
+	* Avoid any custom image processing (ie.: `sharpening`, `color enhancements`, etc.)
 	* Focus (ideally `Autofocus: on`)
 	* Exposure compensation (`off` along the process)
 	* Zoom (`off` along the process)
@@ -37,17 +37,18 @@
 * Measure room's [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
 * Avoid artificial light (most of times). But if no choice, choose those that do not generate _saturated_ images, indeed choose those LED models that are energy-efficient. [90 cd](https://en.wikipedia.org/wiki/Candela) is a desirable condition. The lighting should cause minimal glare across all the capture's process
 * Apply `image rotation`, `cropping`, `keystoning`, `dewarping` or `undeskew` according every page. Avoid any [optical aberrations](https://en.wikipedia.org/wiki/Optical_aberration#Distortion_of_the_image)
-* Apply metadata to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
+* Apply [metadata](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Metadata.md) to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
+* Check the free space remaining of your computer
 * Consider a version for colorblind persons o those that suffer cromatic symptoms
 
 
 
-
+This paragraph will be erased
 La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
 
 La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
 
-
+Distorsión trapezoidal vertical: este efecto se conoce como “keystoning”.
 
 
 
