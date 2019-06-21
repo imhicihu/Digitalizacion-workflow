@@ -15,7 +15,7 @@
 * even on compact, semi-pro or pro photographics cameras, choose `auto-focus` feature
 * on semi-pro or pro cameras, choose the lowest ISO as possible to ensure the least noise in the image
 * attach a memory card (minimum: 8Gb, but _the more, the better_). Choose those models with a high ratio of speed recording (_the less, the better_). Check the free space remaining
-* avoid any offer/option/feature of interpolation
+* avoid any offer/option/feature of interpolation (by software or hardware)
 * Camera options: (if apply)
 	* Shutter speed (`1/60th` of a second or higher)
 	* White balance: `automatic` in case the light's room is stable along the capture process. `Manual` in stormy or cloudy days or unstable light conditions. Hint: attach a [color management chart](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/29/workflow-color-management-chart)
@@ -26,6 +26,7 @@
 	* Focus (ideally `Autofocus: on`)
 	* Exposure compensation (`off` along the process)
 	* Zoom (`off` along the process)
+	* check the built-in histogram feature (if your camera enable it)
 * if compact, choose fast shutterspeed (1/60th of a second or higher) to avoid _blur_.
 * avoid glare (between the covering glass and the camera).
 * do not attach any [UV filter](https://improvephotography.com/2278/12-photography-myths-every-photographer-should-know/) attached to your camera.
@@ -43,13 +44,11 @@
 
 
 
-This paragraph will be erased
-La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
-
-La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
-
-Distorsión trapezoidal vertical: este efecto se conoce como “keystoning”.
-
+- This paragraph will be erased
+- La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
+- La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
+- Distorsión trapezoidal vertical: este efecto se conoce como “keystoning”.
+- https://es.wikipedia.org/wiki/Exposici%C3%B3n_%28fotograf%C3%ADa%29
 
 
 
