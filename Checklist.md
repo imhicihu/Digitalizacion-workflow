@@ -3,10 +3,11 @@
 * check your electric surge
 * check the environment light conditions
 * check the surround air
-* choose a _neutral_ glass (no reflective, so there is no translucent backdrops). Avoid Anti-glare glass (_aka_ "museum glass"): blur the images and prone to get damaged by the same books/pages/fingerprints.
+* choose the biggest page/book that will be captured in that specific scanning section. Then measure it. Then weigh it (to avoid a destructive scan)
+* choose a _neutral_ glass (no reflective, so there is no translucent backdrops). Avoid anti-glare glass (_aka_ "museum glass"): it blur the images and is prone to get damaged by the same books/pages/fingerprints.
 * choose a room that there is no airwaves (preferred). As a rule of thumb, (we) close doors and windows to avoid changes in the light's room environment
 * attach a [color management chart](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/29/workflow-color-management-chart)
-* attach as a background surface a non-glare / no reflective material (to avoid reflections over images)  pana or black tela
+* attach as a background surface a non-glare / no reflective material (to avoid reflections over images), preferable a dark velvet
 * choose your kind of camera: compact, semi-pro, pro. Consider 12 megapixels the minimum to get at least 300PPI captures
 * avoid any technical change/displacement (even environment condition) during the process of capture. No photo editor will fix that, even with RAW therapy (and lot of man-hours)
 * avoid (along the process) use of flash built-in
@@ -33,7 +34,6 @@
 * ![raw_setting.jpg](https://bitbucket.org/repo/5qA7gpA/images/93963878-raw_setting.jpg)
 * Choose the best light hours of the day: _morning_. But that depends the longitude/latitude of your "darkroom". The same insight goes according if you are in summer or winter
 * Avoid cloudy, foggy, stormy days. 
-* Measure the biggest page/book that will be captured
 * Measure room's [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
 * Avoid artificial light (most of times). But if no choice, choose those that do not generate _saturated_ images, indeed choose those LED models that are energy-efficient. [90 cd](https://en.wikipedia.org/wiki/Candela) is a desirable condition. The lighting should cause minimal glare across all the capture's process
 * Apply `image rotation`, `cropping`, `keystoning`, `dewarping` or `undeskew` according every page. Avoid any [optical aberrations](https://en.wikipedia.org/wiki/Optical_aberration#Distortion_of_the_image)
@@ -45,8 +45,6 @@
 
 La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
 
-Digitalización destructiva
-
 La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
 
 
@@ -56,3 +54,4 @@ La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposic
 
 -----------------
 * check this snippet => https://bitbucket.org/snippets/imhicihu/GeLn8K/scaling-pdfs
+* check this previous issue => https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/28/workflow-future-processing-procedimiento-a
