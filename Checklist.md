@@ -1,8 +1,8 @@
-* _the more pages you want to capture, the more variables you need to control_
+* ```The more pages you want to capture, the more variables you need to control```
 * as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve differents strategies
-* check your electric surge
-* check the environment light conditions
-* check the surround air
+* check your electrical power
+* check the environmental light conditions
+* check the surround airwaves
 * choose the biggest page/book that will be captured in that specific scanning section. Then measure it. Then weigh it (to avoid a destructive scan)
 * choose a _neutral_ glass (no reflective, so there is no translucent backdrops). Avoid anti-glare glass (_aka_ "museum glass"): it blur the images and is prone to get damaged by the same books/pages/fingerprints.
 * choose a room that there is no airwaves (preferred). As a rule of thumb, (we) close doors and windows to avoid changes in the light's room environment
@@ -27,12 +27,12 @@
 	* Exposure compensation (`off` along the process)
 	* Zoom (`off` along the process)
 * if compact, choose fast shutterspeed (1/60th of a second or higher) to avoid _blur_.
-* avoid reflection (between the covering glass and the camera).
+* avoid glare (between the covering glass and the camera).
 * do not attach any [UV filter](https://improvephotography.com/2278/12-photography-myths-every-photographer-should-know/) attached to your camera.
-* choose `color` as default to capture the pages.
+* choose `color` as default to capture the book/pages.
 * choose `RAW` file type as default format to capture 
 * ![raw_setting.jpg](https://bitbucket.org/repo/5qA7gpA/images/93963878-raw_setting.jpg)
-* Choose the best light hours of the day: _morning_. But that depends the longitude/latitude of your "darkroom". The same insight goes according if you are in summer or winter
+* Choose the best light hours of the day: _morning_. But that variable depends the longitude/latitude of your "darkroom". The same insight goes according if you are in summer or winter
 * Avoid cloudy, foggy, stormy days. 
 * Measure room's [lux](https://itunes.apple.com/es/app/light-meter-lux-measurement-tool/id642285909?mt=8)
 * Avoid artificial light (most of times). But if no choice, choose those that do not generate _saturated_ images, indeed choose those LED models that are energy-efficient. [90 cd](https://en.wikipedia.org/wiki/Candela) is a desirable condition. The lighting should cause minimal glare across all the capture's process
