@@ -5,7 +5,7 @@
 
 * Workflow and digital strategies describing the process to migrate analog data to the digital realm
 
-* ![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
+- ![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
 
 * This repo is a living document that will grow and adapt over time
 
@@ -26,6 +26,14 @@
 * Dependencies
      - There is no dependencies.
 
+### Related repositories ###
+
+* Some repositories linked with this project:
+     - [Incunnabilia (early book)- Digitization](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/src/)
+     - [PDF inner structure](https://bitbucket.org/imhicihu/pdf-inner-structure/src/master/src/)
+     - [AI Document recognition](https://bitbucket.org/imhicihu/ai-document-recognition/src/)
+     - [Migration data](https://bitbucket.org/imhicihu/migration-data-checklist/src/)
+     
 ### Who do I talk to? ###
 
 * Repo owner or admin
