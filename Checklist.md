@@ -44,14 +44,15 @@
 
 
 
-- This paragraph will be erased
+
+
+
+
+To do
+-----------------
+* check this snippet => https://bitbucket.org/snippets/imhicihu/GeLn8K/scaling-pdfs
 - La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
 - La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
 - Distorsión trapezoidal vertical: este efecto se conoce como “keystoning”.
 - https://es.wikipedia.org/wiki/Exposici%C3%B3n_%28fotograf%C3%ADa%29
-
-
-
------------------
-* check this snippet => https://bitbucket.org/snippets/imhicihu/GeLn8K/scaling-pdfs
 * check this previous issue => https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/28/workflow-future-processing-procedimiento-a
