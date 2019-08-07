@@ -12,7 +12,7 @@
 ### What is this repository for? ###
 
 * Quick summary
-     - Good practices plus some workflow enhancements. Essentially, a _checklist_.
+     - Good practices plus some workflow enhancements. Essentially, this repo is a massive [_checklist_](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Checklist.md).
 * Version
 	- 1.0
     - ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
@@ -20,6 +20,7 @@
 ### How do I get set up? ###
 
 * Summary of set up
+     - Verify [checklist.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Checklist.md)
      - Check [Best practices.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Best_practices.md)
 * Configuration
      - Check [Colophon.md](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Colophon.md?at=master)
