@@ -54,6 +54,10 @@
 
 * Please check the [Commits](https://bitbucket.org/imhicihu/digitalizacion-worflow/commits/) section for the current status
 
+### Code of Conduct
+
+* Please, check our [Code of Conduct](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/code_of_conduct.md)
+
 ### Legal ###
 
 * All trademarks are the property of their respective owners.     
