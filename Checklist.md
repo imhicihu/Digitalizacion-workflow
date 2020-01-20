@@ -4,10 +4,10 @@
 * check the environmental light conditions
 * check the surround airwaves
 * choose the biggest page/book that will be captured in that specific scanning section. Then measure it. Then weigh it (to avoid a destructive scan)
-* choose a _neutral_ glass (no reflective, so there is no translucent backdrops). Avoid anti-glare glass (_aka_ "museum glass"): it blur the images and is prone to get damaged by the same books/pages/fingerprints.
+* choose a _neutral_ glass (non reflective, so there is no translucent backdrops). Avoid anti-glare glass (_aka_ "museum glass"): it blur the images and is prone to get damaged by the same books/pages/fingerprints.
 * choose a room that there is no airwaves (preferred). As a rule of thumb, (we) close doors and windows to avoid changes in the light's room environment
 * attach a [color management chart](https://bitbucket.org/imhicihu/incunnabilia-early-book-digitization/issues/29/workflow-color-management-chart)
-* attach as a background surface a non-glare / no reflective material (to avoid reflections over images), preferable a dark velvet
+* attach as a background surface a non-glare / non reflective material (to avoid reflections over images), preferable a dark velvet
 * choose your kind of camera: compact, semi-pro, pro. Consider 12 megapixels the minimum to get at least 300PPI captures
 * avoid any technical change/displacement (even environment condition) during the process of capture. No photo editor will fix that, even with RAW therapy (and lot of man-hours)
 * avoid (along the process) use of flash built-in
