@@ -42,7 +42,7 @@
 * apply `image rotation`, `cropping`, `keystoning`, `dewarping` or `undeskew` according every page. Avoid any [optical aberrations](https://en.wikipedia.org/wiki/Optical_aberration#Distortion_of_the_image)
 * apply [metadata](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Metadata.md) to the finished object: apply indexing's standards: [Dublin Core](https://en.wikipedia.org/wiki/Dublin_Core), [XMP](https://en.wikipedia.org/wiki/Extensible_Metadata_Platform) _et alia_
 * check the free space remaining of your computer
-* consider a version for colorblind persons o those that suffer cromatic symptoms
+* consider a version for colorblind persons or those that suffer cromatic symptoms
 
 
 
