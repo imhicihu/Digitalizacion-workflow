@@ -13,9 +13,7 @@
 
 * Quick summary
      - Good practices plus some workflow enhancements. Essentially, this repo is a massive [_checklist_](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Checklist.md).
-* Version
-	- 1.0
-      ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
+![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
 
 ### How do I get set up? ###
 
