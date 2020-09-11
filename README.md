@@ -5,7 +5,7 @@
 
 * Workflow and digital strategies describing the process to migrate analog data to the digital realm
 
-- ![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
+![bibliography.gif](https://i.ibb.co/Lnrd0y7/bibliography.gif)
 
 * This repo is a living document that will grow and adapt over time
 
@@ -15,7 +15,7 @@
      - Good practices plus some workflow enhancements. Essentially, this repo is a massive [_checklist_](https://bitbucket.org/imhicihu/digitalizacion-worflow/src/master/Checklist.md).
 * Version
 	- 1.0
-    - ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
+      ![praehistoria.png](https://bitbucket.org/repo/5qA7gpA/images/2517272857-praehistoria.png)
 
 ### How do I get set up? ###
 
