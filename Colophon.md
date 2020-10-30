@@ -1,4 +1,4 @@
-## Technical requeriments ##
+## Technical requirements ##
 
 * Hardware
      - Macbook 15"
