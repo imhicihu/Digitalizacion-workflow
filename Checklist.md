@@ -2,7 +2,7 @@
 * ```The more pages you want to capture, the more variables you need to control```
 ### General rules
 * as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve differents strategies. In our case, our motto was: _the less steps, the better_
-* check your electrical powern supply
+* check your electrical power supply
 * check the environmental light condition of your room
 * check the surround airwaves. As a rule of thumb, _avoid warm and windy environments_. Even more, we close doors and windows to avoid changes in the light's room
 * choose the biggest page/book that will be captured in that specific task scanning. Then measure it. Later, weigh it (to avoid a destructive scan)
