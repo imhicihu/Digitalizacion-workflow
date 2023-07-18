@@ -10,4 +10,4 @@
     - ✔︎ Remove alternate images
     - ✘ Force image recompression
     - ✘ Remove all images
-    - ![image.png](https://bitbucket.org/repo/5qA7gpA/images/2674561997-compressing.png)
+    ![image.png](images/2674561997-compressing.png)

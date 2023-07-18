@@ -5,7 +5,7 @@
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2)
 * [Linear Book Scanner](http://linearbookscanner.org/): The open-source automatic book scanner
 * [Is that a hand? Glitches reveal Google Books' Human scanners](https://www.wired.com/story/google-books-glitches-gallery/)
-* [Information Standards Quaterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
+* [Information Standards Quarterly](http://www.niso.org/publications/isq/): offers pdf (_year by year_) to download
      * _On Technical Reports:_ 
 	      * [NISO TR01-1995, Environmental Guidelines for the Storage of Paper Records:](http://www.niso.org/publications/tr/tr01.pdf) Storage parameters addressed include temperature, relative humidity, exposure to light, gaseous contaminants, and particulates. Values and procedures for the various parameters are recommended.
 	 * _On Recommended Practices:_

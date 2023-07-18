@@ -15,7 +15,7 @@
 * [http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271](http://catalogosuba.sisbi.uba.ar/vufind/Record/20160331025831271)
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
-* [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some github repos
+* [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some GitHub repos
 ## Processing
 * [Dewarping pages](http://halfbakedmaker.org/blog/366)
 * [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html)
