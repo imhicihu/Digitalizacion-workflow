@@ -40,6 +40,7 @@
             ![rm_screenshot2.jpg](images/1559824972-rm_screenshot2.jpg)
           <br> </br>
           + [Name Changer](https://mrrsoftware.com/namechanger/): Rename files in a batch (MacOSX)
+          + [FileNamer](https://www.sttmedia.com/filerenamer-download): file renaming by batch (MacOSX)
      - Metadata (Dublin Core & XMP specifications)
           - [calibre](https://calibre-ebook.com): indexing and metadata verifier
           - [Skim](https://skim-app.sourceforge.io) PDF reader and note-taker for macOSX. It is designed to help you read and annotate scientific papers in PDF file format
