@@ -1,4 +1,4 @@
-## Guidelines
+### Guidelines
 * [Guidelines for Planning the Digitization of Rare Book and Manuscript Collections - PDF version](https://www.ifla.org/files/assets/rare-books-and-manuscripts/rbms-guidelines/guidelines-for-planning-digitization.pdf)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-2)
@@ -16,12 +16,12 @@
 * [A Linux Guide to Book Scanning](https://natecraun.net/articles/linux-guide-to-book-scanning.html)
 * [Perspective correction (algorithm)](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
 * [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some GitHub repos
-## Processing
-* [Dewarping pages](http://halfbakedmaker.org/blog/366)
+### Processing
+* ~~[Dewarping pages](http://halfbakedmaker.org/blog/366)~~ (deprecated at september 3, 2023)
 * [Page dewarping](https://mzucker.github.io/2016/08/15/page-dewarping.html)
 * [Unprojecting text with ellipses](https://mzucker.github.io/2016/10/11/unprojecting-text-with-ellipses.html)
-## Metadata
+### Metadata
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
-## Miscellaneous
+### Miscellaneous
 * [Linear Book Scanner](http://linearbookscanner.org/)
 * [Archivist](http://diybookscanner.org/archivist/)
