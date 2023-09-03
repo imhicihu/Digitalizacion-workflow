@@ -1,4 +1,4 @@
-## Technical requirements ##
+### Technical requirements
 
 * Hardware
      - Macbook 15"
@@ -49,6 +49,6 @@
           <br> </br>
           ![7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif](images/2680327398-7e6f7f74-17ff-11e7-80dd-b2602b9f0ba1.gif)
      
-## Legal ##
+### Legal
 
 * All trademarks are the property of their respective owners.
