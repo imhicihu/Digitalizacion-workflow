@@ -1,4 +1,4 @@
-## Golden rule
+### Golden rule
 * ```The more pages you want to capture, the more variables you need to control```
 ### General rules
 * as a rule of thumb, there is no ready-made recipes that apply to everything. Every case deserve different strategies. In our case, our motto was: _the less steps, the better_
@@ -44,7 +44,7 @@
 * check the free space remaining of your computer
 * consider a version for colorblind persons or those that suffer chromatic symptoms
 
-## To do
+### To do
 * check this snippet => https://bitbucket.org/snippets/imhicihu/GeLn8K/scaling-pdfs
 - La apertura, junto con la velocidad del obturador y el nivel ISO, determina la exposición efectiva de la imagen, al determinar la cantidad de luz que alcanza al sensor de la cámara y la sensibilidad del sensor a la luz.
 - La apertura, la velocidad del obturador, y el nivel de ISO determinan la exposición
