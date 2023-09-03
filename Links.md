@@ -1,4 +1,4 @@
-## Links visited:
+### Links visited:
 * [D-lib: The Magazine of Digital Library Research](http://www.dlib.org/dlib.html)
 * [Example of Dublin Core on early (rare) book](http://trapalanda.bn.gov.ar/jspui/handle/123456789/1524)
 * [https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1](https://www.bn.gov.ar/micrositios/multimedia/capacitaciones/introduccion-a-la-digitalizacion-parte-1)
@@ -42,7 +42,7 @@
 * [NDSA:Digital Preservation in a Box](https://wiki.diglib.org/NDSA:Digital_Preservation_in_a_Box)
 * [Library of Congress: Tools and infrastructure](http://blogs.loc.gov/thesignal/category/tools-and-infrastructure/) at first sight, share some github repos
 
-## Links to visit
+### Links to visit
 * [Digital Preservation Software Platform](http://dpsp.sourceforge.net/)
 * [Digital preservation Software - MacOSX chapter](https://sourceforge.net/directory/home-education/library/digpreserve/os:mac/)
 * [Repositorio CONICET Digital](http://ri.conicet.gov.ar/discover)
@@ -88,5 +88,5 @@
 * http://www.alliancepermanentaccess.org/index.php/tools/
 * http://www.iso16363.org/courses/resources/tools-and-services/
 
-## Software ##
+### Software
 * https://sourceforge.net/projects/droid/  ---> related with metadata
