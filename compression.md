@@ -1,4 +1,4 @@
-## Presets ##
+### Presets
 
 * Medium compression
 
