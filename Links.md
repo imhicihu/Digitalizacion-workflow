@@ -48,7 +48,8 @@
 * [Repositorio CONICET Digital](http://ri.conicet.gov.ar/discover)
 * [Ministerio de Economía - CEDIAP (Asistencia técnica)](http://cdi.mecon.gov.ar/cediap/servicios-y-asistencia-tecnica/)
 * https://core.ac.uk/search?q=digitization
-* Guidelines & Resources of Library of Congress: https://www.loc.gov/ndnp/guidelines/ 
+* Guidelines & Resources of Library of Congress: https://www.loc.gov/ndnp/guidelines/
+* http://cobecore.org/research/data-best-practices/
 * https://www.nedcc.org/free-resources/digital-preservation
 * https://www.nedcc.org/free-resources/overview   mainly this resource: https://www.nedcc.org/free-resources/digital-preservation
 * [Digitally reconstructing the Great Parchment Book: 3D recovery of fire-damaged historical documents](https://academic.oup.com/dsh/article/2670757) **superb paper**
