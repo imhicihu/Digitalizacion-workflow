@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="images/6Iua2l0HTLK-TQElSkET0Q.webp?raw=true" alt="Logotipo de Digitalizacion-workflow"/>
+</p>
+
+---
+
 ![stability-wip](images/477405737-stability_work_in_progress.png)
 ![internal-wip](images/3847436881-internal_use_stable.png)
 
