@@ -4,7 +4,7 @@
 
 ---
 
-![stability-wip](images/477405737-stability_work_in_progress.png)
+![stability-wip](images/3278295154-status_archived.png)
 ![internal-wip](images/3847436881-internal_use_stable.png)
 
 # Rationale #
